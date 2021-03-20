@@ -5,9 +5,12 @@ First:
 - Clone this repo:
 `git clone git@github.com:donaldziff/w209.git`
 
-- Get the latest database from the shared google drive:
-https://drive.google.com/drive/folders/1Gy-wKe0bJQyjW8mx4vB70iZVb7NuaG6J
-Look for a file named `products.db`
+- Get the latest database 
+ - If you're on the ischool server you copy it:
+   `cp ~ziff/w209-databases/products.db w209`
+ - Or you can get it from the shared google drive:
+   https://drive.google.com/drive/folders/1Gy-wKe0bJQyjW8mx4vB70iZVb7NuaG6J
+   Look for a file named `products.db`
 
 For your local machine:
 - Create a virtual environment with python >=3.7
