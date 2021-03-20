@@ -1,0 +1,12 @@
+input_files/**
+env/**
+**/__pycache__/**
+web/__pycache__/**
+bin/**
+etc/**
+lib/**
+lib64/**
+pyvenv.cfg
+share/**
+**/.ipynb_checkpoints/**
+products.db
