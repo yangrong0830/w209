@@ -27,7 +27,7 @@ For your local machine:
 For the ischool server:
 - cd ~
 - mv w209 w209.original
-- git clone git@github.com:ivanwong-berkeley/w209_dataviz.git w209
+- git clone git@github.com:donaldziff/w209.git
 - /usr/local/bin/virtualenv w209
 - cd w209
 - source bin/activate
